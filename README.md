@@ -5,7 +5,7 @@ This is the source code of the security placement Framework simulation introduce
 
 # Requirements:
 
-ILOG 12.8
+IBM ILOG 12.8
 
 Python 3.6
 
